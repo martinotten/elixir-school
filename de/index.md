@@ -8,15 +8,33 @@ lang: de
 
 Lektionen zur Elixir Programmiersprache, inspiriert durch Twitters [Scala School](http://twitter.github.io/scala_school/).
 
-_Dein Feedback und Unterstützung ist sehr gern gesehen!_
+Verfügbar in [Việt ngữ][vi], [汉语][cn], [Español][es], [Slovenčina][sk], [日本語][jp], [Polski][pl], [Português][pt], [Русском][ru], [Bahasa Melayu][my], [Українською][uk], [한국어][ko], [L'italiano][it], [Deutsch](de), [বাংলা](bn) und anderen Sprachen.
+
+  [cn]: /cn/
+  [es]: /es/
+  [it]: /it/
+  [jp]: /jp/
+  [ko]: /ko/
+  [pl]: /pl/
+  [pt]: /pt/
+  [ru]: /ru/
+  [sk]: /sk/
+  [vi]: /vi/
+  [my]: /my/
+  [uk]: /uk/
+  [de]: /de/
+  [bn]: /bn/
+
+
+_Dein Feedback und deine Unterstützung sind sehr gerne gesehen!_
 
 ## Über Elixir
 
 "Elixir ist eine dynamische funktionale Sprache entworfen für skalierbare und wartbare Anwendungen." — [elixir-lang.org](http://elixir-lang.org/)
 
-Elixir benutzt die battle tested Erlang VM (BEAM) um verteilte und fehlertolerante Systeme mit wenig Latenz out of the box zu ermöglichen.
+Elixir nutzt die erprobte Erlang VM (BEAM), um verteilte und fehlertolerante Systeme mit wenig Latenz zu ermöglichen.
 
-__Features__:
+__Funktionen__:
 
 + Skalierbar
 + Fehlertolerant
